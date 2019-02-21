@@ -23,7 +23,7 @@ Below is the list of Component used in the Idea Object for Lighting with their d
 `5 - EditIdeaComment.component : -` The component which responsible updating the comment related to an Idea and deleting the existing the comment.
 
 You can install the unmanaged package from.
-<a href="https://githubsfdeploy.herokuapp.com/?owner=amitastreait&repo=Idea-Object-For-Lightning-Environment-V2.0">
+<a href="https://githubsfdeploy.herokuapp.com/?owner=amitastreait&repo=Idea-Object-For-Lightning-Environment-V2">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>

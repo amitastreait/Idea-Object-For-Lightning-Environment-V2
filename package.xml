@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>IdeaComponent</fullName>
+    <types>
+        <members>CreateIdeaController</members>
+        <members>CreateIdeaController_Test</members>
+        <members>EditIdeaController</members>
+        <members>EditIdeaController_Test</members>
+        <members>IdeaComponentController</members>
+        <members>IdeaComponentController_Test</members>
+        <members>ViewIdeaController</members>
+        <members>ViewIdeaController_Test</members>
+        <members>ViewIdeaWrapper</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>CreateIdea</members>
+        <members>CreateIdeaEvent</members>
+        <members>EditIdea</members>
+        <members>EditIdeaComment</members>
+        <members>IdeaApp</members>
+        <members>IdeaComponent</members>
+        <members>IdeaHeader</members>
+        <members>IdeaVote</members>
+        <members>ViewIdea</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <types>
+        <members>Ideas</members>
+        <name>CustomTab</name>
+    </types>
+    <version>45.0</version>
+</Package>

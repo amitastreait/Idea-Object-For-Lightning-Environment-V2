@@ -21,6 +21,7 @@ Below is the list of Component used in the Idea Object for Lighting with their d
 ![](https://github.com/amitastreait/Idea-Object-For-Lightning-Environment-V2.0/blob/master/Edit%20Idea.PNG)
 
 `5 - EditIdeaComment.component : -` The component which responsible updating the comment related to an Idea and deleting the existing the comment.
+![](https://github.com/amitastreait/Idea-Object-For-Lightning-Environment-V2/blob/master/Edit%20Idea.PNG)
 
 You can install the unmanaged package from.
 <a href="https://githubsfdeploy.herokuapp.com/?owner=amitastreait&repo=Idea-Object-For-Lightning-Environment-V2">

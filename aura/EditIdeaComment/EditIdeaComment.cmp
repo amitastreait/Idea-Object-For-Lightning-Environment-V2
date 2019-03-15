@@ -21,7 +21,7 @@
                 <abbr class="slds-required" title="required">*</abbr>Comment </label>
             <div class="slds-form-element__control">
                 
-                 <ui:inputTextArea class="slds-input" aura:id="commentBody" value="{!v.IdeaCommentRecord.CommentBody}" />
+                 <lightning:inputRichText class="slds-input" aura:id="commentBody" value="{!v.IdeaCommentRecord.CommentBody}" />
             </div>
             <div class="slds-form-element__control">
                  <lightning:button variant="brand" label="Update Idea Comment" iconName="action:new" iconPosition="left" onclick="{!c.updateIdeacomment}"/>
